@@ -8,6 +8,7 @@
 
 * Introduktion til JavaScript
 * Krav til Github aflevering
+* DETTE ER EN TEST! TEST TEST
 
 ### Github
 
